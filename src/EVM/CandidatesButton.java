@@ -4,7 +4,7 @@ public class CandidatesButton extends Button {
 
 	@Override
 	public boolean press() {
-		// TODO Auto-generated method stub
+		// TODO Auto-generateyud method stub
 		return false;
 	}
 
