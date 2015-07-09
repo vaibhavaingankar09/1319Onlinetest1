@@ -1,5 +1,6 @@
 package EVM;
 
 public class CandidateSetSection {
-	Button candidateset;
+	CandidateSet candidateset;
+	boolean seal;
 }
